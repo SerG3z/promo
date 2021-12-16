@@ -7,7 +7,7 @@
       "type": "Еда",
       "link": "https://localkitchen.ru/29147a",
       "color": "#FDBB0B",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/kitchen.webp"
     }
   ,{
       "title": "СитиДрайв",
@@ -16,7 +16,7 @@
       "type": "Каршеринг",
       "link": "https://goo.gl/l5OT7n",
       "color": "#5801B0",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/city.webp"
     }
   ,{
       "title": "ЯндексДрай",
@@ -25,7 +25,7 @@
       "type": "Каршеринг",
       "link": "https://clck.ru/ZLBvp",
       "color": "#FB9922",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/ya.jpeg"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/ya.webp"
     }
   ,{
       "title": "BelkaCar",
@@ -43,7 +43,7 @@
       "type": "Каршеринг",
       "link": "https://go.onelink.me/Jlks/e055cc89",
       "color": "#2CCAA1",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/delimoil.webp"
     }
   ]
 }
