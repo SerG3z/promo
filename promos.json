@@ -1,12 +1,50 @@
 {
   "promos": [
     {
-      "title": "",
-      "description": "",
-      "couponValue": "",
-      "type": "",
-      "link": "",
-      "color": ""  
+      "title": "Кухня на районе",
+      "descriptions": "скидка 300 руб на первый заказ",
+      "couponsValue": "29147A",
+      "type": "Еда",
+      "link": "https://localkitchen.ru/29147a",
+      "color": "FDBB0B",
+      "iconPath": ""
+    },
+    {
+      "title": "СитиДрайв",
+      "descriptions": "скидка 50% на первую поздку, не более 500р",
+      "couponsValue": "c7MAhp",
+      "type": "Каршеринг",
+      "link": "https://goo.gl/l5OT7n",
+      "color": "5801B0",
+      "iconPath": ""
+    },
+    {
+      "title": "ЯндексДрай",
+      "descriptions": "скидка 50% на первую поздку по тарфу фикс",
+      "couponsValue": "refD6Vso2",
+      "type": "Каршеринг",
+      "link": "https://clck.ru/ZLBvp",
+      "color": "FB9922",
+      "iconPath": ""
+    },
+    {
+      "title": "BelkaCar",
+      "descriptions": "скидка 300р на первую поздку",
+      "couponsValue": "ESDH3371",
+      "type": "Каршеринг",
+      "link": "https://belkacar.ru/invite/ESDH3371",
+      "color": "0B2AAA",
+      "iconPath": ""
+    },
+    {
+      "title": "Делимобиль",
+      "descriptions": "скидка 400 руб на первую поздку",
+      "couponsValue": "REFXDNUI",
+      "type": "Каршеринг",
+      "link": "https://go.onelink.me/Jlks/e055cc89",
+      "color": "2CCAA1",
+      "iconPath": ""
     }
   ]
 }
+
