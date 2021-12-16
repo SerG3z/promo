@@ -19,13 +19,13 @@
       "iconPath": ""
     }
   ,{
-      "title": "ЯндексДрайв",
+      "title": "ЯндексДрай",
       "descriptions": "скидка 50% на первую поздку по тарфу фикс",
       "couponsValue": "refD6Vso2",
       "type": "Каршеринг",
       "link": "https://clck.ru/ZLBvp",
       "color": "#FB9922",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/ya.jpeg"
     }
   ,{
       "title": "BelkaCar",
@@ -47,3 +47,4 @@
     }
   ]
 }
+
