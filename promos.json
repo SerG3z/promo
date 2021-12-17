@@ -52,7 +52,7 @@
       "type": "Дебетовая карта",
       "link": "https://www.tinkoff.ru/sl/4yRIAFX4E6i",
       "color": "#272727",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/blackMetal.webp"
     },
     {
       "title": "Кредитная карта ALL Airlines",
@@ -61,7 +61,7 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/9zBfoBlLyEN",
       "color": "#1793D8",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/credit_card.webp"
     },
     {
       "title": "Работа в IT-подразделении Тинькофф",
@@ -70,7 +70,7 @@
       "type": "Работа",
       "link": "https://www.tinkoff.ru/sl/Atw4Uk8FpEW",
       "color": "#E7F8F4",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/work.webp"
     },
     {
       "title": "Тинькофф Мобайл",
@@ -79,7 +79,7 @@
       "type": "Сотовая связь",
       "link": "https://www.tinkoff.ru/sl/2ilqoHFhNMt",
       "color": "#FACE39",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/mobileT.webp"
     },
     {
       "title": "Тинькофф Брокерский счет",
@@ -88,7 +88,7 @@
       "type": "Инвестиции",
       "link": "https://www.tinkoff.ru/sl/4ZvlWaQoBFS",
       "color": "#FEC906",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/brokerT.webp"
     },
     {
       "title": "Тинькофф ИИС",
@@ -97,7 +97,7 @@
       "type": "Инвестиции",
       "link": "https://www.tinkoff.ru/sl/uB36xvO5Mv",
       "color": "#FEC906",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/iis.webp"
     },
     {
       "title": "Кредит наличными от Tinkoff",
@@ -106,7 +106,7 @@
       "type": "Кредит",
       "link": "https://www.tinkoff.ru/sl/AA3lGM2IIMn",
       "color": "#F8DFDA",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money.webp"
     },
     {
       "title": "Кредит наличными под залог недвижимости от Tinkoff",
@@ -115,7 +115,7 @@
       "type": "Кредит",
       "link": "https://www.tinkoff.ru/sl/5NtnwTHNPSo",
       "color": "#525252",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money_flat.webp"
     },
     {
       "title": "Кредит наличными под залог авто от Tinkoff",
@@ -124,7 +124,7 @@
       "type": "Кредит",
       "link": "https://www.tinkoff.ru/sl/7YRhwLoowV",
       "color": "#3B3B3B",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money_auto.webp"
     },
     {
       "title": "Вклад в Тинькофф с доходностью до 5,24% в рублях",
@@ -133,7 +133,7 @@
       "type": "Вклад",
       "link": "https://www.tinkoff.ru/sl/3qOhhXI0V6k",
       "color": "#FFED24",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/deposit.webp"
     },
     {
       "title": "Счет для бизнеса в Тинькофф",
@@ -142,7 +142,7 @@
       "type": "Бизнес",
       "link": "https://www.tinkoff.ru/sl/7fXJaKEXw2R",
       "color": "#69727B",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/pko.webp"
     },
     {
       "title": "Тинькофф Кредит Брокер",
@@ -151,7 +151,7 @@
       "type": "Бизнес",
       "link": "https://www.tinkoff.ru/sl/AkHpug8mAIv",
       "color": "#EAEAEA",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/brokerT.webp"
     },
     {
       "title": "КАСКО в Тинькофф",
@@ -160,7 +160,7 @@
       "type": "Страхование",
       "link": "https://www.tinkoff.ru/sl/99HJTFfkU9o",
       "color": "#27C8BE",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/kasko.webp"
     },
     {
       "title": "ОСАГО от Tinkof",
@@ -169,7 +169,7 @@
       "type": "Страхование",
       "link": "https://www.tinkoff.ru/sl/99HJTFfkU9o",
       "color": "#2668B8",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/osago.webp"
     },
     {
       "title": "Работа в Тинькофф",
@@ -178,7 +178,7 @@
       "type": "Работа",
       "link": "https://www.tinkoff.ru/sl/5piJlUMceBc",
       "color": "#BDBDBD",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/work.webp"
     },
     {
       "title": "Tinkoff Black - дебетовая карта с кэшбэком",
@@ -187,7 +187,7 @@
       "type": "Дебетовая карта",
       "link": "https://www.tinkoff.ru/sl/5XthccFzGZg",
       "color": "#2B2E2B",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/blackT.webp"
     },
     {
       "title": "Tinkoff ALL Airlines Black Edition - премиальная карта",
@@ -196,7 +196,7 @@
       "type": "Дебетовая карта",
       "link": "https://www.tinkoff.ru/sl/5XthccFzGZg",
       "color": "#515151",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/premiumT.webp"
     },
     {
       "title": "Tinkoff Junior - бесплатная дебетовая карта для детей",
@@ -214,7 +214,7 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/8umlQ98tlGN",
       "color": "#1694D9",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/credit_card.webp"
     },
     {
       "title": "Яндекс Такси - кредитная карта Тинькофф для водителей",
@@ -223,7 +223,7 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/6nm3VW54jmi",
       "color": "#E14B23",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/yaPro.webp"
     },
     {
       "title": "Tinkoff Drive - кэшбэк 10% за покупки на АЗС",
@@ -232,7 +232,7 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/2qu4Ie0KL1c",
       "color": "#3B3B3B",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/drive.webp"
     },
     {
       "title": "Тинькофф Платинум - кредитная карта с лимитом до 700 000 ₽",
@@ -241,7 +241,7 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/5YzEEu7eREx",
       "color": "#BCBCBC",
-      "iconPath": ""
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/platinum.webp"
     },
     {
       "title": "Выбирайте продукт от Тинькофф и получайте бонусы",
