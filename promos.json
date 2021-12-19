@@ -7,7 +7,8 @@
       "type": "Еда",
       "link": "https://localkitchen.ru/29147a",
       "color": "#FDBB0B",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/kitchen.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/kitchen.webp",
+      "shareText": "Ваш друг приглашает в Кухню на районе и дарит 300 приветственных бонусов\nlocalkitchen.ru/29147a"
     },
     {
       "title": "СитиДрайв",
@@ -16,7 +17,8 @@
       "type": "Каршеринг",
       "link": "https://goo.gl/l5OT7n",
       "color": "#5801B0",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/city.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/city.webp",
+      "shareText": "Я использую каршеринг Ситидрайв https://goo.gl/l5OT7n. Воспользуйтесь моим пригласительным кодом и получите скидку 50% на первую поездку (не более 500 руб). Скопируйте код и введите его при регистрации в приложении. Код: c7MAhp"
     },
     {
       "title": "ЯндексДрайв",
@@ -25,7 +27,8 @@
       "type": "Каршеринг",
       "link": "https://clck.ru/ZLBvp",
       "color": "#FB9922",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/ya.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/ya.webp",
+      "shareText": "Делюсь промокодом на Яндекс.Драйв\n\nЭто скидка 50% на первую поездку, так что можно арендовать машину и протестировать каршеринг. Осталось зарегистрироваться в приложении Драйва и ввести промокод в разделе «Блага».\n\nПромокод такой: refD6Vso2\n\nhttps://clck.ru/ZLBvp"
     },
     {
       "title": "BelkaCar",
@@ -34,7 +37,8 @@
       "type": "Каршеринг",
       "link": "https://belkacar.ru/invite/ESDH3371",
       "color": "#0B2AAA",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/belka.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/belka.webp",
+      "shareText": "Забирай 300 ₽ на BelkaCar по промокоду ESDH3371! Вводи промокод на первую поездку в приложении: https://belkacar.ru/invite/ESDH3371"
     },
     {
       "title": "Делимобиль",
@@ -43,7 +47,8 @@
       "type": "Каршеринг",
       "link": "https://go.onelink.me/Jlks/e055cc89",
       "color": "#2CCAA1",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/delimoil.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/delimoil.webp",
+      "shareText": "Hey.\nJoin the Delimobil carsharing.\nUse promo code from this message to get a discount on your first ride.\nJust enter the code in the app after you signed up.\n\nPromo code: REFXDNUI\nhttps://go.onelink.me/Jlks/e055cc89"
     },
     {
       "title": "Дебетовая карта Tinkoff Black Metal",
@@ -52,7 +57,8 @@
       "type": "Дебетовая карта",
       "link": "https://www.tinkoff.ru/sl/4yRIAFX4E6i",
       "color": "#272727",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/blackMetal.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/blackMetal.webp",
+      "shareText": "Tinkoff Black Metal - карта для тех, кто привык получать больше. Если оформить по моей ссылке, вы получите 2 месяца Tinkoff Premium\nhttps://www.tinkoff.ru/sl/4yRIAFX4E6i"
     },
     {
       "title": "Кредитная карта ALL Airlines",
@@ -61,7 +67,8 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/9zBfoBlLyEN",
       "color": "#1793D8",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/credit_card.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/credit_card.webp",
+      "shareText": "ALL Airlines - кредитная карта для выгодных путешествий. Копите баллы за покупки и обменивайте их на авиабилеты. Если оформить по моей ссылке, вы получите 1 000 миль\nhttps://www.tinkoff.ru/sl/9zBfoBlLyEN"
     },
     {
       "title": "Работа в IT-подразделении Тинькофф",
@@ -70,7 +77,8 @@
       "type": "Работа",
       "link": "https://www.tinkoff.ru/sl/Atw4Uk8FpEW",
       "color": "#E7F8F4",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/work.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/work.webp",
+      "shareText": "Работа в IT - создавайте будущее вместе с нами. Если прийти по моей ссылке, вы получите работа в IT-подразделении Тинькофф\nhttps://www.tinkoff.ru/sl/Atw4Uk8FpEW"
     },
     {
       "title": "Тинькофф Мобайл",
@@ -79,7 +87,8 @@
       "type": "Сотовая связь",
       "link": "https://www.tinkoff.ru/sl/2ilqoHFhNMt",
       "color": "#FACE39",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/mobileT.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/mobileT.webp",
+      "shareText": "Тинькофф Мобайл - дарим 1000 ₽ на связь при сохранении номера. Если оформить по моей ссылке, вы дополнительно получите 500 бонусов и сервисы бесплатно навсегда\nhttps://www.tinkoff.ru/sl/2ilqoHFhNMt"
     },
     {
       "title": "Тинькофф Брокерский счет",
@@ -88,7 +97,8 @@
       "type": "Инвестиции",
       "link": "https://www.tinkoff.ru/sl/4ZvlWaQoBFS",
       "color": "#FEC906",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/brokerT.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/brokerT.webp",
+      "shareText": "Брокерский счет - откройте брокерский счет в Тинькофф за 5 минут без визита в офис. Если оформить по моей ссылке, вы получите акция до 100 000 ₽\nhttps://www.tinkoff.ru/sl/4ZvlWaQoBFS"
     },
     {
       "title": "Тинькофф ИИС",
@@ -97,7 +107,8 @@
       "type": "Инвестиции",
       "link": "https://www.tinkoff.ru/sl/uB36xvO5Mv",
       "color": "#FEC906",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/iis.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/iis.webp",
+      "shareText": "ИИС - счет для инвестирования с возможностью получить +13% через налоговый вычет. Если оформить по моей ссылке, вы получите акция до 20 000 ₽\nhttps://www.tinkoff.ru/sl/uB36xvO5Mv"
     },
     {
       "title": "Кредит наличными от Tinkoff",
@@ -106,7 +117,8 @@
       "type": "Кредит",
       "link": "https://www.tinkoff.ru/sl/AA3lGM2IIMn",
       "color": "#F8DFDA",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money.webp",
+      "shareText": "Кредит наличными от Tinkoff - без справок о доходах и поручителей. Если оформить по моей ссылке, вы получите повышенный кредитный лимит\nhttps://www.tinkoff.ru/sl/AA3lGM2IIMn"
     },
     {
       "title": "Кредит наличными под залог недвижимости от Tinkoff",
@@ -115,7 +127,8 @@
       "type": "Кредит",
       "link": "https://www.tinkoff.ru/sl/5NtnwTHNPSo",
       "color": "#525252",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money_flat.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money_flat.webp",
+      "shareText": "Кредит наличными под залог недвижимости от Tinkoff - без справок о доходах и переоформления недвижимости на банк. ОЕсли оформить по моей ссылке, вы получите повышенный кредитный лимит\nhttps://www.tinkoff.ru/sl/5NtnwTHNPSo"
     },
     {
       "title": "Кредит наличными под залог авто от Tinkoff",
@@ -124,7 +137,8 @@
       "type": "Кредит",
       "link": "https://www.tinkoff.ru/sl/7YRhwLoowV",
       "color": "#3B3B3B",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money_auto.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/money_auto.webp",
+      "shareText": "Кредит наличными под залог авто от Tinkoff - пользуйтесь автомобилем в залоге, ПТС остается у владельца. ОЕсли оформить по моей ссылке, вы получите повышенный кредитный лимит\nhttps://www.tinkoff.ru/sl/7YRhwLoowV"
     },
     {
       "title": "Вклад в Тинькофф с доходностью до 5,24% в рублях",
@@ -133,7 +147,8 @@
       "type": "Вклад",
       "link": "https://www.tinkoff.ru/sl/3qOhhXI0V6k",
       "color": "#FFED24",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/deposit.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/deposit.webp",
+      "shareText": "Счет для бизнеса в Тинькофф - открытие и обслуживание счета от 0 ₽. Если оформить по моей ссылке, вы получите бесплатное обслуживание навсегда\nhttps://www.tinkoff.ru/sl/7fXJaKEXw2R"
     },
     {
       "title": "Счет для бизнеса в Тинькофф",
@@ -142,7 +157,8 @@
       "type": "Бизнес",
       "link": "https://www.tinkoff.ru/sl/7fXJaKEXw2R",
       "color": "#69727B",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/pko.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/pko.webp",
+      "shareText": "Счет для бизнеса в Тинькофф - открытие и обслуживание счета от 0 ₽. Если оформить по моей ссылке, вы получите бесплатное обслуживание навсегда\nhttps://www.tinkoff.ru/sl/7fXJaKEXw2R"
     },
     {
       "title": "Тинькофф Кредит Брокер",
@@ -151,7 +167,8 @@
       "type": "Бизнес",
       "link": "https://www.tinkoff.ru/sl/AkHpug8mAIv",
       "color": "#EAEAEA",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/brokerT.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/brokerT.webp",
+      "shareText": "Кредитование покупателей - продавайте товары и услуги своим клиентам в кредит или рассрочку. Подходит для любого бизнеса. Если прийти по моей ссылке, вы получите повышенное вознаграждение или бесплатная интеграция\nhttps://www.tinkoff.ru/sl/AkHpug8mAIv"
     },
     {
       "title": "КАСКО в Тинькофф",
@@ -160,7 +177,8 @@
       "type": "Страхование",
       "link": "https://www.tinkoff.ru/sl/99HJTFfkU9o",
       "color": "#27C8BE",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/kasko.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/kasko.webp",
+      "shareText": "Подписка на КАСКО в Тинькофф — скидки до 30%, оформление онлайн. Если оформить по моей ссылке, вы получите 50% кэшбэк от стоимости полиса за первый месяц\nhttps://www.tinkoff.ru/sl/99HJTFfkU9o"
     },
     {
       "title": "ОСАГО от Tinkof",
@@ -169,7 +187,8 @@
       "type": "Страхование",
       "link": "https://www.tinkoff.ru/sl/99HJTFfkU9o",
       "color": "#2668B8",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/osago.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/osago.webp",
+      "shareText": "ОСАГО от Tinkoff - страхование без осмотра автомобиля и похода в офис. Если оформить по моей ссылке, вы получите 500 ₽\nhttps://www.tinkoff.ru/sl/3B3IQFOcvRX"
     },
     {
       "title": "Работа в Тинькофф",
@@ -178,7 +197,8 @@
       "type": "Работа",
       "link": "https://www.tinkoff.ru/sl/5piJlUMceBc",
       "color": "#BDBDBD",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/work.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/work.webp",
+      "shareText": "Работа в Тинькофф - топ-3 лучших работодателей России по версии Forbes. Если прийти работать по моей ссылке, вы получите работа в лучшем онлайн-банке\nhttps://www.tinkoff.ru/sl/5piJlUMceBc"
     },
     {
       "title": "Tinkoff Black - дебетовая карта с кэшбэком",
@@ -187,7 +207,8 @@
       "type": "Дебетовая карта",
       "link": "https://www.tinkoff.ru/sl/5XthccFzGZg",
       "color": "#2B2E2B",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/blackT.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/blackT.webp",
+      "shareText": "Tinkoff Black - дебетовая карта с кэшбэком. Зарабатывайте деньги, а не бонусы. Если оформить по моей ссылке, вы получите 2 месяца Tinkoff Pro\nhttps://www.tinkoff.ru/sl/5XthccFzGZg"
     },
     {
       "title": "Tinkoff ALL Airlines Black Edition - премиальная карта",
@@ -196,7 +217,8 @@
       "type": "Дебетовая карта",
       "link": "https://www.tinkoff.ru/sl/5XthccFzGZg",
       "color": "#515151",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/premiumT.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/premiumT.webp",
+      "shareText": "Tinkoff ALL Airlines Black Edition - премиальная карта для путешествий. Если оформить по моей ссылке, вы получите 2 месяца Tinkoff Premium\nhttps://www.tinkoff.ru/sl/7QbvREth1pn"
     },
     {
       "title": "Tinkoff Junior - бесплатная дебетовая карта для детей",
@@ -205,7 +227,8 @@
       "type": "Дебетовая карта",
       "link": "https://www.tinkoff.ru/sl/8gQpIKsWt86",
       "color": "#D09509",
-      "iconPath": ""
+      "iconPath": "",
+      "shareText": "Tinkoff Junior - бесплатная дебетовая карта для детей. Если оформить по моей ссылке, вы получите 200 баллов\nhttps://www.tinkoff.ru/sl/8gQpIKsWt86"
     },
     {
       "title": "ALL Airlines - кредитная карта для выгодных путешествий.",
@@ -214,7 +237,8 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/8umlQ98tlGN",
       "color": "#1694D9",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/credit_card.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/credit_card.webp",
+      "shareText": "ALL Airlines - кредитная карта для выгодных путешествий. Копите баллы за покупки и обменивайте их на авиабилеты. Если оформить по моей ссылке, вы получите 1 000 миль\nhttps://www.tinkoff.ru/sl/8umlQ98tlGN"
     },
     {
       "title": "Яндекс Такси - кредитная карта Тинькофф для водителей",
@@ -223,7 +247,8 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/6nm3VW54jmi",
       "color": "#E14B23",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/yaPro.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/yaPro.webp",
+      "shareText": "Яндекс Такси - кредитная карта Тинькофф для водителей. До 7% кэшбэка за покупки на АЗС, оплату автоуслуг и фастфуда. Если оформить по моей ссылке, вы получите 750 ₽\nhttps://www.tinkoff.ru/sl/6nm3VW54jmi"
     },
     {
       "title": "Tinkoff Drive - кэшбэк 10% за покупки на АЗС",
@@ -232,7 +257,8 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/2qu4Ie0KL1c",
       "color": "#3B3B3B",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/drive.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/drive.webp",
+      "shareText": "Tinkoff Drive - кэшбэк 10% за покупки на АЗС. Если оформить по моей ссылке, вы получите 750 баллов\nhttps://www.tinkoff.ru/sl/2qu4Ie0KL1c"
     },
     {
       "title": "Тинькофф Платинум - кредитная карта с лимитом до 700 000 ₽",
@@ -241,7 +267,8 @@
       "type": "Кредитная карта",
       "link": "https://www.tinkoff.ru/sl/5YzEEu7eREx",
       "color": "#BCBCBC",
-      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/platinum.webp"
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/platinum.webp",
+      "shareText": "Тинькофф Платинум - кредитная карта с лимитом до 700 000 ₽. Оформить можно онлайн, нужен только паспорт. Если оформить по моей ссылке, вы получите 1 000 баллов\nhttps://www.tinkoff.ru/sl/5YzEEu7eREx"
     },
     {
       "title": "Выбирайте продукт от Тинькофф и получайте бонусы",
@@ -250,7 +277,18 @@
       "type": "Продукты Тинькофф",
       "link": "https://www.tinkoff.ru/sl/8rOIymMwRn0",
       "color": "#F4F4F4",
-      "iconPath": ""
+      "iconPath": "",
+      "shareText": "Выбирайте продукт от Тинькофф и получайте бонусы\nhttps://www.tinkoff.ru/sl/8rOIymMwRn0"
+    },
+    {
+      "title": "OneTwoTrip",
+      "descriptions": "Установи приложение OneTwoTrip и получи скидку 500 ₽ на первый заказ по промокоду ALENA9417",
+      "couponsValue": "ALENA9417",
+      "type": "Билеты",
+      "link": "12trip.me/1d6bc6477d0c474d",
+      "color": "#191919",
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/OTTLogo.webp",
+      "shareText": "Установи приложение OneTwoTrip и получи скидку 500 ₽ на первый заказ по промокоду ALENA9417. 12trip.me/1d6bc6477d0c474d"
     }
   ]
 }
