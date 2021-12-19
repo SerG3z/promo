@@ -289,6 +289,16 @@
       "color": "#191919",
       "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/OTTLogo.webp",
       "shareText": "Установи приложение OneTwoTrip и получи скидку 500 ₽ на первый заказ по промокоду ALENA9417. 12trip.me/1d6bc6477d0c474d"
+    },
+    {
+      "title": "H&M",
+      "descriptions": "При регистрации действует скидка 10% на первую покупку",
+      "couponsValue": "",
+      "type": "Одежда",
+      "link": "https://www.hm.com/register?utm_source=invite_a_friend&utm_medium=android&rcr=MzAyMTkxMTkxMA&rm=ru_ru",
+      "color": "#4A4A4A",
+      "iconPath": "https://github.com/SerG3z/promo/raw/main/pictures/hm.webp",
+      "shareText": "Вступай в программу лояльности H&M вместе со мной! \uD83D\uDE0D При регистрации действует скидка 10% на первую покупку. Вот ссылка на предложение: \n\nhttps://www.hm.com/register?utm_source=invite_a_friend&utm_medium=android&rcr=MzAyMTkxMTkxMA&rm=ru_ru"
     }
   ]
 }
